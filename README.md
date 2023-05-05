@@ -1,27 +1,27 @@
-# CrudPwd
+# Projeto CRUD-PWA em Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
+Este projeto foi gerado com o [Angular CLI](https://github.com/angular/angular-cli) na versão 16.0.0 e consiste em uma aplicação de cadastro de carros com suporte a PWA (Progressive Web App), utilizando uma API em Node.js.
 
-## Development server
+## Servidor de desenvolvimento
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Execute o comando `ng serve` para iniciar o servidor de desenvolvimento. Acesse `http://localhost:4200/` no navegador. A aplicação será recarregada automaticamente se houver mudanças nos arquivos de origem.
 
-## Code scaffolding
+## Scaffolding de código
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Execute o comando `ng generate component nome-do-componente` para gerar um novo componente. Você também pode utilizar `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## Compilação
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Execute o comando `ng build` para compilar o projeto. Os arquivos gerados serão armazenados no diretório `dist/`.
 
-## Running unit tests
+## Execução de testes unitários
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Execute o comando `ng test` para executar os testes unitários via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## Execução de testes end-to-end
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Execute o comando `ng e2e` para executar os testes end-to-end em uma plataforma de sua escolha. Para utilizar este comando, é necessário primeiro adicionar um pacote que implementa a capacidade de testes end-to-end.
 
-## Further help
+## Ajuda adicional
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Para obter mais ajuda sobre o Angular CLI, utilize o comando `ng help` ou consulte a página [Angular CLI Overview and Command Reference](https://angular.io/cli).
