@@ -1,6 +1,7 @@
 
-![Tela de login do sistema](https://raw.githubusercontent.com/Joaofelipe14//cadastro-carro-crud-pwarefs/heads/src/image.png)
 _Tela Principal_
+
+![Tela de login do sistema](https://raw.githubusercontent.com/Joaofelipe14/cadastro-carro-crud-pwa/refs/heads/main/src/assets/image.png)
 # Projeto CRUD-PWA em Angular
 
 Este projeto foi gerado com o [Angular CLI](https://github.com/angular/angular-cli) na versão 16.0.0 e consiste em uma aplicação de cadastro de carros com suporte a PWA (Progressive Web App), utilizando uma API em Node.js.
